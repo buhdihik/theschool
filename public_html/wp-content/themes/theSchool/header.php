@@ -7,7 +7,7 @@
         <title><?php wp_title('|', true, 'right'); ?></title>
         <?php wp_head(); ?>
 	
-   <link rel="stylesheet" type="text/css" href="http://www.ishedorene.com/wp-content/themes/theSchool/css/main.css" media="screen">
+   <link rel="stylesheet" type="text/css" href="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/css/main.css" media="screen">
    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cinzel|Fjalla+One|Pontano+Sans" media="screen">
    
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
