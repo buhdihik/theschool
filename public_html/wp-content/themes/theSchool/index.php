@@ -1,5 +1,4 @@
 <?php get_header();?>
-
         <div class="container-fluid ">
             <div class="row courseBG " id="second">
 								<div class="col-md-5"></div>
