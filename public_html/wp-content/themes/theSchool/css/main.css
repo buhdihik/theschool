@@ -1,0 +1,139 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+
+.indexBG {
+background: transparent url("../images/homeBG.jpeg") no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 995px;
+
+}
+
+.navbarBG-erase{
+ background-color: transparent !important;
+ background-image: none !important;
+ border: none !important;
+ box-shadow: none !important;
+}
+
+.navbar-nav > li > a {
+ color: #fff !important;
+}
+
+
+.navbar-brand {
+ color: orange !important;
+ font-family: 'Cinzel', serif !important;
+ font-size: 34px !important;
+
+}
+
+
+.english {
+ margin-top:50px;
+}
+.english ul {
+ margin-top: 10px;
+ margin-left: 50px;
+}
+
+.english h1{
+ font-family: 'Fjalla One', sans-serif !important;
+ font-size: 96px !important;
+ color: #fff !important;
+}
+
+.english ul li:before {
+    content: '';
+    display: inline-block;
+    height: 25px;
+    width: 35px;
+    background-image: url('../images/check.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: -35px;
+
+
+
+}
+
+.english ul li  {
+ list-style-type:none;
+ font-family: 'Pontano Sans', sans-serif;
+ color: #fff;
+ font-size: 24px;
+}
+
+
+.courseBG {
+background: transparent url("../images/couple.jpeg") no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 990px;
+
+}
+
+.courseBG h1 {
+ font-family: 'Fjalla One', sans-serif;
+font-size: 106px;
+ color: #000; 
+  
+}
+
+.courseBG h2 {
+font-family: 'Fjalla One', sans-serif;
+font-size: 44px;
+ color: orange;
+}
+
+.aboutBG h1 {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 106px;
+    color: #000;
+    border-bottom: 2px dotted orange;
+
+}
+
+.aboutBG p {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 20px;
+    color: #666;
+    line-height: 40px;
+ 
+}
+
+.aboutBG .left {
+    margin-left: 20%;
+    width: 40%;
+    float: left;
+
+
+}
+
+.aboutBG .right {
+    width: 36%;
+    float: right;
+    margin-left: 3%;
+
+
+}
+
+@media screen and (max-width:890px){
+    
+    .aboutBG .right {
+        
+        float: none;
+    }
+    
+    .aboutBG .left {
+        width:auto;
+        float: left;
+    }
+}
