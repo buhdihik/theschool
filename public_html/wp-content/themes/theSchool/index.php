@@ -13,7 +13,7 @@
 								
             </div>
             <div class="row aboutBG">
-                <div class="" id="third">
+                <div class="about" id="third">
                             <h1>About Us</h1>
                             <div class="left">
                                 <p>
@@ -27,7 +27,7 @@
                                 </p>
                             </div>
                             <div class="right ">
-                                <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/aboutUs1.jpeg" class="img-responsive">
+                                <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/aboutUs1.jpeg" class="img-responsive center-block">
                                 
                             </div>
                 </div>
