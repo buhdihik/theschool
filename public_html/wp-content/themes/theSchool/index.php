@@ -31,6 +31,41 @@
                                 
                             </div>
                 </div>
+            </div><!--About-->
+            <div class="contactBG row" id='fourth'>
+                <div class="coaches text-center">
+                    <h1>Meet your Coaches</h1>
+                    <div class="boxes" style="margin-left:12%;">
+                        <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/drJekell.png" class="img-responsive"/>
+                        <div class="bottomB"></div>
+                        <div class="coachesName">Dr. Jykell
+                            <div class="ubos">Pedia, Pulumonary Specialist</div>
+                        </div>
+                    </div>
+                    <div class="boxes">
+                        <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/einstein.png" class="img-responsive"/>
+                        <div class="bottomB"></div>
+                         <div class="coachesName">Prof. Einstein
+                             <div class="ubos">Physicist, Scientist, Churvasist</div>
+                         </div>
+                    </div>
+                    <div class="boxes">
+                        <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/profDoc.png" class="img-responsive"/>
+                        <div class="bottomB"></div>
+                         <div class="coachesName">Dr. Wackwak
+                             <div class="ubos">Pakang Specialist, Albolaryo</div>
+                         </div>
+                    </div>
+                    <div class="boxes">
+                        <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/profx.png" class="img-responsive"/>
+                        <div class="bottomB"></div>
+                         <div class="coachesName">  Prof. X 
+                                <div class="ubos">Doctor X, Professor Xavier</div>
+
+                            
+                         </div>
+                    </div>
+                </div>
             </div>
         </div>
   

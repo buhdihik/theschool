@@ -57,9 +57,8 @@
               <li class="active"><a href="#first">Home</a></li>
               <li><a href="#second">Courses</a></li>
               <li><a href="#third">About</a></li>
-              <li><a href="#">Coaches</a> </li>
-              <li><a href="#">Price/Rates</a></li>
-              <li><a href="#">Contact</a> </li>
+              <li><a href="#fourth">Coaches</a> </li>
+             
             </ul>
 
           </div><!--/.nav-collapse -->

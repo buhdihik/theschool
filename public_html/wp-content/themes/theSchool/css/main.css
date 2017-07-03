@@ -8,6 +8,11 @@
     margin-right: 0px !important;
 }
 
+.container-fluid{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
 
 .indexBG {
 background: transparent url("../images/homeBG.jpeg") no-repeat top center fixed;
@@ -16,6 +21,18 @@ background: transparent url("../images/homeBG.jpeg") no-repeat top center fixed;
     -o-background-size: cover;
     background-size: cover;
     height: 995px;
+
+}
+
+
+
+.contactBG {
+background: transparent url("../images/contact.jpeg") no-repeat top center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 600px;
 
 }
 
@@ -40,7 +57,7 @@ background: transparent url("../images/homeBG.jpeg") no-repeat top center fixed;
 
 
 .english {
- margin-top:50px;
+ margin-top:10%;
 }
 .english ul {
  margin-top: 10px;
@@ -130,6 +147,66 @@ font-size: 44px;
 
 }
 
+.about {
+    margin-top: 10%;
+    margin-bottom: 32%;
+}
+
+.coaches {
+    margin-top: 4%;
+}
+
+.coaches h1 {
+    font-family: 'Fjalla One', sans-serif !important;
+     font-size: 96px !important;
+     color: #fff !important;
+}
+
+.coachesName {
+    color: wheat;
+    font-size: 22px;
+    float: left;
+    text-align: center;
+
+
+}
+
+.ubos {
+     list-style-type:none;
+     font-family: 'Pontano Sans', sans-serif;
+     color: #fff;
+     font-size: 12px;
+}
+
+
+
+.boxes {
+    display: inline-block;
+    width: 15%;
+    margin-right: 5%;
+    overflow: hidden;
+}
+
+.boxes img {
+    width: 70%;
+}
+
+.bottomB {
+    border-bottom:  1px solid gray;
+    margin-top: 15%;
+    width: 75%;
+}
+
+
+.boxes:last-child {
+    margin-right: 0%;
+  
+}
+
+
+
+
+
 @media screen and (max-width:890px){
     
     .about {
@@ -149,7 +226,18 @@ font-size: 44px;
         float: left;
         margin-left: 0%;
     }
+    
+    .coachesName {
+       
+        font-size: 16px;
+     }
+     
+     .ubos {
+         font-size: 12px;
+     }
 }
+
+
 
 @media screen and (max-width: 400px){
     .aboutBG .right {
@@ -159,4 +247,13 @@ font-size: 44px;
     .aboutBG .left {
         margin-right: 0%;
     }
+    
+    .coachesName {
+       
+        font-size: 12px;
+     }
+     
+     .ubos {
+         font-size: 10px;
+     }
 }
