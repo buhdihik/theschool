@@ -40,7 +40,7 @@
 		  //Scroll and don't show hash
 		$('html,body').animate({
 			 'scrollTop': $target.offset().top
-		}, 3000, 'swing');
+		}, 1000, 'swing');
 					});
 				});
    </script>

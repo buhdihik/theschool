@@ -7,13 +7,7 @@
                    to our courses offered!
                 </h1>
                 <h2>and make new friends!</h2>
-                <br/>
-                   
-                
-                    
-                
-                
-								
+                <br/>			
             </div>
           </div>
             <div class="row aboutBG">
@@ -24,15 +18,17 @@
                             <div class="box">
                                 <div class="col-md-3">
                                       <div class="panel  text-center">
-                                          <div class="panel-body"
-                                        <h3>Web Desinging</h3>
+                                          <div class="panel-body">
+                                        <h3>QUALITY EDUCATION</h3>
                                         <p>Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.</p>
-                                            <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/owl.png" class="center-block img-responsive">
-                                             <br/>
-                                             <div class="vector"><a href="https://www.vecteezy.com">Vector Design by www.Vecteezy.com</a> </div>
+                                            
+                                             <div class="vector">
+                                               <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/owl.png" class="center-block img-responsive">
+                                             <br/>  
+                                                 <a href="https://www.vecteezy.com">Design by www.Vecteezy.com</a> </div>
                                             <button class="btn btn-warning">Read More</button>
                                         </div>
                                       </div>
@@ -42,15 +38,18 @@
                             <div class="box">
                                 <div class="col-md-3">
                                       <div class="panel  text-center">
-                                          <div class="panel-body"
-                                        <h3>Web Desinging</h3>
+                                          <div class="panel-body">
+                                        <h3>SCIENTIST MISSION</h3>
                                         <p>Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.,
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.</p>
-                                            <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/s.png" class="center-block img-responsive">
+                                            
+                                            <div class="vector"> 
+                                                <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/science.png" class="center-block img-responsive">
                                             <br>
-                                            <div class="vector"> Free Vectors via <a href="https://www.Vecteezy.com/">Vecteezy!</a> </div>
+                                                    <a rel="nofollow" target="_blank" href="https://www.vecteezy.com">Vector illustration credit: Vecteezy</a>
+                                            </div>
                                            <button class="btn btn-danger">Read More</button>
                                         </div>
                                       </div>
@@ -60,13 +59,17 @@
                             <div class="box">
                                 <div class="col-md-3">
                                       <div class="panel  text-center">
-                                          <div class="panel-body"
-                                        <h3>Web Desinging</h3>
+                                          <div class="panel-body">
+                                         <h3>ATHLETISM</h3>
                                         <p>Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.</p>
-                                            <img src="https://d0.awsstatic.com/Image_Thumbs/graph_icon.png" class="center-block img-responsive">
+                                           
+                                            <div class="vector">
+                                              <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/s.png" class="center-block img-responsive">
+                                            <br>   
+                                             Free Vectors via <a href="https://www.Vecteezy.com/">Vecteezy!</a> </div>
                                         <button class="btn btn-success">Read More</button>
                                         </div>
                                       </div>
@@ -75,13 +78,19 @@
                             <div class="box">
                                 <div class="col-md-3">
                                       <div class="panel  text-center">
-                                          <div class="panel-body"
-                                        <h3>Web Desinging</h3>
+                                          <div class="panel-body">
+                                        <h3>TRIUMPHANT</h3>
                                         <p>Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.
                                             Lorem ipsum dolor sit amet, ectetur adipiscing elit.</p>
-                                            <img src="https://d0.awsstatic.com/Image_Thumbs/graph_icon.png" class="center-block img-responsive">
+                                           
+                                            <div class="vector">
+                                                <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/graduate.png" class="center-block img-responsive">
+                                            <br>
+                                                Free Vector Graphics by 
+                                                <a rel="nofollow" href="https://www.Vecteezy.com">www.vecteezy.com</a> 
+                                            </div>
                                         <button class="btn btn-info">Read More</button>
                                         </div>
                                       </div>

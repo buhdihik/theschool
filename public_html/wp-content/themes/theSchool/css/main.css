@@ -149,14 +149,46 @@ font-size: 44px;
 
 }
 
-.vector a {
+.vector {
+    margin-top: 26%;
     font-size: 11px;
     color: #999;
 }
 
+.vector img {
+    height: 135px;
+    
+}
+
+.vector2 {
+    margin-top: 26%;
+    font-size: 11px;
+    color: #999;
+
+}
+
+.vector2 a {
+    font-size: 11px;
+    color: #999;
+    
+}
+
+.vector3 {
+  margin-top: 17%;
+    font-size: 11px;
+    color: #999;  
+}
+
+.vector4 {
+  margin-top: 12%;
+    font-size: 11px;
+    color: #999;  
+}
+
+
 .about {
     margin-top: 10%;
-    margin-bottom: 32%;
+    margin-bottom: 10%;
 }
 
 .coaches {
@@ -165,7 +197,7 @@ font-size: 44px;
 
 .coaches h1 {
     font-family: 'Fjalla One', sans-serif !important;
-     font-size: 96px !important;
+     font-size: 80px !important;
      color: #fff !important;
 }
 
@@ -268,5 +300,16 @@ font-size: 44px;
         font-size: 22px;
         line-height: 1.0em;
      }
+     
+     .vector img {
+        height: 115px;
+    
+    }
+    
+    .courseBG h1, .coaches h1{
+        font-size: 80px;
+    }
+    
+   
 
 }
