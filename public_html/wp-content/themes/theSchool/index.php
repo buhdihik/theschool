@@ -7,29 +7,86 @@
                    to our courses offered!
                 </h1>
                 <h2>and make new friends!</h2>
-                <button class="btn btn-info">Enroll Today!</button>
-                <button class="btn btn-success">Show Courses!</button>
-                </div>
+                <br/>
+                   
+                
+                    
+                
+                
 								
             </div>
+          </div>
             <div class="row aboutBG">
-                <div class="about" id="third">
+                <div class="about container" id="third">
                             <h1>About Us</h1>
-                            <div class="left">
-                                <p>
-                                    There are many variations of passages of Lorem Ipsum available,
-                                    but the majority have suffered alteration in some form, 
-                                    by injected humour, or randomised words which don't look even slightly believable. 
-                                </p>
-                                <p>   If you are going to use a passage 
-                                    of Lorem Ipsum, you need to be sure there isn't
-                                    anything embarrassing hidden in the middle of text. 
-                                </p>
-                            </div>
-                            <div class="right ">
-                                <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/aboutUs1.jpeg" class="img-responsive center-block">
-                                
-                            </div>
+                            
+                            
+                            <div class="box">
+                                <div class="col-md-3">
+                                      <div class="panel  text-center">
+                                          <div class="panel-body"
+                                        <h3>Web Desinging</h3>
+                                        <p>Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.</p>
+                                            <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/owl.png" class="center-block img-responsive">
+                                             <br/>
+                                             <div class="vector"><a href="https://www.vecteezy.com">Vector Design by www.Vecteezy.com</a> </div>
+                                            <button class="btn btn-warning">Read More</button>
+                                        </div>
+                                      </div>
+                                </div>
+                            </div><!--box-->
+                            
+                            <div class="box">
+                                <div class="col-md-3">
+                                      <div class="panel  text-center">
+                                          <div class="panel-body"
+                                        <h3>Web Desinging</h3>
+                                        <p>Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.,
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.</p>
+                                            <img src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/images/s.png" class="center-block img-responsive">
+                                            <br>
+                                            <div class="vector"> Free Vectors via <a href="https://www.Vecteezy.com/">Vecteezy!</a> </div>
+                                           <button class="btn btn-danger">Read More</button>
+                                        </div>
+                                      </div>
+                                </div>
+                            </div><!--box-->
+                            
+                            <div class="box">
+                                <div class="col-md-3">
+                                      <div class="panel  text-center">
+                                          <div class="panel-body"
+                                        <h3>Web Desinging</h3>
+                                        <p>Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.</p>
+                                            <img src="https://d0.awsstatic.com/Image_Thumbs/graph_icon.png" class="center-block img-responsive">
+                                        <button class="btn btn-success">Read More</button>
+                                        </div>
+                                      </div>
+                                </div>
+                            </div><!--box-->
+                            <div class="box">
+                                <div class="col-md-3">
+                                      <div class="panel  text-center">
+                                          <div class="panel-body"
+                                        <h3>Web Desinging</h3>
+                                        <p>Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.
+                                            Lorem ipsum dolor sit amet, ectetur adipiscing elit.</p>
+                                            <img src="https://d0.awsstatic.com/Image_Thumbs/graph_icon.png" class="center-block img-responsive">
+                                        <button class="btn btn-info">Read More</button>
+                                        </div>
+                                      </div>
+                                </div>
+                            </div><!--box-->
                 </div>
             </div><!--About-->
             <div class="contactBG row" id='fourth'>
@@ -67,6 +124,33 @@
                     </div>
                 </div>
             </div>
+           
+               
+                  <div class="container CcontactBackground col-md-4 col-md-offset-4"  id="pip">  
+                      <form id="contact" action="" method="post">
+                        <h3>Quick Contact</h3>
+                        <h4>Contact us today, and get reply with in 24 hours!</h4>
+                        <fieldset>
+                          <input placeholder="Your name" type="text" tabindex="1" required autofocus>
+                        </fieldset>
+                        <fieldset>
+                          <input placeholder="Your Email Address" type="email" tabindex="2" required>
+                        </fieldset>
+                        <fieldset>
+                          <input placeholder="Your Phone Number" type="tel" tabindex="3" required>
+                        </fieldset>
+                        <fieldset>
+                          <textarea placeholder="Type your Message Here...." tabindex="4" required></textarea>
+                        </fieldset>
+                        <fieldset>
+                          <button name="submit" type="submit" id="contact-submit" data-submit="...Sending">Submit</button>
+                        </fieldset>
+                      </form>
+                      
+                    </div><!-- /.container -->
+                
+                
+            
         </div>
   
 <?php get_footer();?>

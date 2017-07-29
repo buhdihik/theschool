@@ -27,7 +27,7 @@ background: transparent url("../images/homeBG.jpeg") no-repeat top center fixed;
 
 
 .contactBG {
-background: transparent url("../images/contact.jpeg") no-repeat top center fixed;
+background: transparent url("../images/contact.jpeg") no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -68,6 +68,7 @@ background: transparent url("../images/contact.jpeg") no-repeat top center fixed
  font-family: 'Fjalla One', sans-serif !important;
  font-size: 96px !important;
  color: #fff !important;
+ line-height: 1.5em;
 }
 
 .english ul li:before {
@@ -89,6 +90,7 @@ background: transparent url("../images/contact.jpeg") no-repeat top center fixed
  font-family: 'Pontano Sans', sans-serif;
  color: #fff;
  font-size: 24px;
+ line-height: 2.2em;
 }
 
 
@@ -145,6 +147,11 @@ font-size: 44px;
     margin-left: 3%;
 
 
+}
+
+.vector a {
+    font-size: 11px;
+    color: #999;
 }
 
 .about {
@@ -239,7 +246,7 @@ font-size: 44px;
 
 
 
-@media screen and (max-width: 400px){
+@media screen and (max-width: 500px){
     .aboutBG .right {
         margin-right: 0%;
     }
@@ -256,4 +263,10 @@ font-size: 44px;
      .ubos {
          font-size: 10px;
      }
+     
+     .english ul li {
+        font-size: 22px;
+        line-height: 1.0em;
+     }
+
 }

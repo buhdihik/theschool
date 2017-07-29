@@ -8,11 +8,19 @@
         <?php wp_head(); ?>
 	
    <link rel="stylesheet" type="text/css" href="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/css/main.css" media="screen">
+   <link rel="stylesheet" type="text/css" href="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/css/panel.css" media="screen">
+   <link rel="stylesheet" type="text/css" href="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/css/contact.css" media="screen">
    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Cinzel|Fjalla+One|Pontano+Sans" media="screen">
    
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+   <script src="http://www.ishedorene.com/theschool/wp-content/themes/theSchool/js/panels.js"></script>
 	
 
+   <script>
+    $(document).ready(function(){
+    $(this).scrollTop(0);
+}); 
+   </script>
  <script>
 					$(document).ready(function(){
 					$('a[href^="#"]').on('click',function(e){
@@ -32,7 +40,7 @@
 		  //Scroll and don't show hash
 		$('html,body').animate({
 			 'scrollTop': $target.offset().top
-		}, 1000, 'swing');
+		}, 3000, 'swing');
 					});
 				});
    </script>
@@ -53,11 +61,12 @@
             <a class="navbar-brand" href="#">AE School</a>
           </div>
           <div id="navbar" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav navbar-right">
+            <ul class="nav navbar-nav navbar-left">
               <li class="active"><a href="#first">Home</a></li>
               <li><a href="#second">Courses</a></li>
               <li><a href="#third">About</a></li>
               <li><a href="#fourth">Coaches</a> </li>
+              <li><a href="#pip">Contact</a> </li>
              
             </ul>
 
